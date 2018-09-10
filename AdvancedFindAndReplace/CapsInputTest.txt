@@ -1,0 +1,2 @@
+Out << ChArDAta[i].sidESmash[j].XHitMAx << ',';
+oUt << cHarDatA[I].DoWNsMash[j].XhItmiN << ',';

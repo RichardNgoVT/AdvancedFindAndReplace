@@ -1,0 +1,31 @@
+SETTINGS
+VariableIndicator:(Info: First character starts variable, second one ends it)
+(
+)
+InputEnder:
+:END
+Textfile:(Leave blank if you are pasting text instead)
+CapsInputTest.txt
+Case Specific: (0)
+Ignore Duplicates: (0)
+(^Info: Use 0 or 1 to choose. By default (0),
+given the text: <<<<<<D>
+replacing <<(VaribleName)> with <<(Dog)> will result in:
+<<Dog>
+with this option set to (1), the result will instead be:
+<<<<<<Dog>
+since the program will ignore any "<<" that follows the first "<<")
+--------------------------------------------------------------------
+TEXT:
+out << charData[i].sidesmash[j].Xhitmax << ',';
+out << charData[i].downsmash[j].Xhitmin << ',';
+:END
+FIND:
+out << charData[i].(1).Xhit(2)
+:END
+REPLACE:
+out << charData[i].(upsmash[j]).XHit(2)
+out << charData[i].(1).YHit(2)
+dogs are cool
+
+:END

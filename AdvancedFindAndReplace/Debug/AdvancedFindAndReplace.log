@@ -1,0 +1,7 @@
+﻿  AdvancedFindAndReplace.cpp
+c:\users\richa\source\repos\advancedfindandreplace\advancedfindandreplace\advancedfindandreplace.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\richa\source\repos\advancedfindandreplace\advancedfindandreplace\advancedfindandreplace.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\richa\source\repos\advancedfindandreplace\advancedfindandreplace\advancedfindandreplace.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\richa\source\repos\advancedfindandreplace\advancedfindandreplace\advancedfindandreplace.cpp(344): warning C4018: '>=': signed/unsigned mismatch
+c:\users\richa\source\repos\advancedfindandreplace\advancedfindandreplace\advancedfindandreplace.cpp(347): warning C4018: '<': signed/unsigned mismatch
+  AdvancedFindAndReplace.vcxproj -> C:\Users\richa\source\repos\AdvancedFindAndReplace\Debug\AdvancedFindAndReplace.exe

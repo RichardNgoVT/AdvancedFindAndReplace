@@ -1,0 +1,6 @@
+out << charData[i].upsmash[j].XHitmax << ',';
+out << charData[i].sidesmash[j].YHitmax << ',';
+dogs are cool
+out << charData[i].upsmash[j].XHitmin << ',';
+out << charData[i].downsmash[j].YHitmin << ',';
+dogs are cool
